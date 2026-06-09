@@ -1,4 +1,4 @@
-public class Output{
+public class JavaTerms{
 	public static void main(String[] args){
 		System.out.println("abstract - Used to create incomplete classes and methods");
 		System.out.println("assert - Used for debugging and testing assumptions");
