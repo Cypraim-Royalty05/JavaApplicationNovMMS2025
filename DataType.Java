@@ -17,5 +17,7 @@ public class DataType{
 		
 		double cbnBalance = 355435647753744444.477484;
 		System.out.printf("The CBN balance is %.2f%n",cbnBalance);
+		
+		
 	}
 }

@@ -18,10 +18,10 @@ public class OperatorsPart1{
 		System.out.printf("The product of %d * %d = %d%n",num1, num2, multiplication);
 	
 		double division = (double)num1/num2;
-		System.out.printf("The sum of %d / %d = %f%n",num1, num2, division);
+		System.out.printf("The division of %d / %d = %f%n",num1, num2, division);
 		
 		int remainder = num1 % num2;
-		System.out.printf("The quotient of %d % %d = %d%n",num1,num2,remainder);
+		System.out.printf("The quotient of %d / %d = %d%n",num1,num2,remainder);
 	
 	//Compound Arithmetic Operator(
 	num1 += num2;
